@@ -1,5 +1,7 @@
 # Valkey Hackathon — Hyderabad 2026
 
+![valkey-logo](https://valkey.io/img/valkey-horizontal.svg)
+
 **Build real open source contributions for Valkey.**
 
 📅 June 20–21, 2026
